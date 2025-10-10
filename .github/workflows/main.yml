@@ -1,4 +1,4 @@
-name: npm nodejs-20
+name: npm nodejs-22
 
 on:
   push:
