@@ -1,4 +1,4 @@
-name: npm nodejs-17
+name: npm nodejs-1
 
 on:
   push:
